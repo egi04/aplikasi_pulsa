@@ -1,11 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package aplikasi_pulsa;
-//tes projek
-
 public class Aplikasi_pulsa {
 
     /**
@@ -14,5 +7,6 @@ public class Aplikasi_pulsa {
     public static void main(String[] args) {
         // TODO code application logic here
     }
- public void pulsa() {}   
+ public void login() {
+ String username,pasworrd;}   
 }
