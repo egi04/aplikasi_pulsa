@@ -13,10 +13,14 @@ public class Aplikasi_pulsa {
         int no, kode, harga;
         String operator;
     }
+
     public void agen() {
         int id;
         String nama, alamat;
-        
     }
-    
+
+    public void saldo() {
+        int jml_pengisian, jml_saldo;
+        String tgl_isi;
+    }
 }
