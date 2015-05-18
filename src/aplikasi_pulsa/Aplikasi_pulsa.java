@@ -4,11 +4,8 @@
  * and open the template in the editor.
  */
 package aplikasi_pulsa;
+//tes projek
 
-/**
- *
- * @author Egi Ramdani
- */
 public class Aplikasi_pulsa {
 
     /**
@@ -17,5 +14,5 @@ public class Aplikasi_pulsa {
     public static void main(String[] args) {
         // TODO code application logic here
     }
-    
+ public void pulsa() {}   
 }
