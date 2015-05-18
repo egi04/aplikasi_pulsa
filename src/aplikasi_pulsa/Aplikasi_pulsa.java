@@ -16,6 +16,7 @@ public class Aplikasi_pulsa {
     public void agen() {
         int id;
         String nama, alamat;
+        
     }
     
 }
